@@ -1,0 +1,28 @@
+@charset "utf-8";
+.header_rule {
+    display: block;
+    width: 100%;
+}
+.navbar {
+    float: left;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+    padding-right: 4px;
+    display: block;
+}
+nav {
+    color: #FF77FD;
+    font-size: x-large;
+}
+
+.wrapper {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-left: 30px;
+    margin-top: 49px;
+    margin-bottom: 30px;
+}
